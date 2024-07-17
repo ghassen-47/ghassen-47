@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning PYTHON, Unity , Unreal Engine, C#
 - 💞️ I’m looking to collaborate on Game project 
 - 📫 How to reach me @itsthecreep47
-- 😄 Pronouns: creep47
+- 😄 Pronouns: creep
 - ⚡ Fun fact: i love u all xD
 
 <!---
